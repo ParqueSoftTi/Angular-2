@@ -1,0 +1,17 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-05-23T18:07:40-05:00",
+  "id": "proyectos-propuestos",
+  "duration": 0,
+  "title": "Codelab: Proyectos Propuestos Angular 2",
+  "summary": "Proyectos Propuestos Angular 2",
+  "source": "proyectos-propuestos.md",
+  "theme": "",
+  "status": null,
+  "category": null,
+  "tags": [],
+  "url": "proyectos-propuestos"
+}
